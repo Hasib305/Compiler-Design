@@ -1,0 +1,104 @@
+ The Single Line Comment is: 
+ROll -1907089
+Header Library Declared Here
+ The Multiline Comment is: 
+Hasibul Hasan Hasib 
+3rd year
+
+ -->Declaring Function: func
+
+Variable: arg, Value: 0
+
+--> Function Declared Successfully <--
+
+Error: Function 'func' already declared.
+
+Variable: ar, Value: 0
+
+ **Error :Function didnot created **
+
+ -->Declaring Function: xya
+
+Variable: app, Value: 0
+
+--> Function Declared Successfully <--
+
+Variable: ii, Value: hhh
+Value of ii is: hhh
+hello World
+
+Variable: val, Value: 0.893997
+
+Variable: p, Value: 8.000000
+
+Variable: o, Value: 5
+
+Variable: u, Value: 6
+
+Variable: www, Value: 11
+
+Variable: x, Value: 1
+
+Variable: y, Value: 0
+
+** Error : Variable : "z" doesn't exist. **
+
+  IF-ELSE Condition Returns: 9
+
+  IF-ELSE Condition Returns: 5
+
+Variable: a, Value: 11
+
+Variable: b, Value: 20
+
+Variable: c, Value: 2
+Value of a is: 11
+Value of b is: 20
+Value of c is: 2
+
+Variable: d, Value: 1.100000
+
+Variable: e, Value: 1.100000
+Scan Variable a
+Scan Variable b
+
+Variable: aa, Value: 2
+Value of aa is: 2
+
+Variable: bb, Value: 1
+Value of bb is: 1
+
+--> Loop Started <--
+Loop Iteration NO : 1
+Loop Iteration NO : 2
+Loop Iteration NO : 3
+Loop Iteration NO : 4
+Loop Iteration ENDED
+
+--> Loop Started <--
+Loop Iteration NO : 1
+Loop Iteration NO : 2
+Loop Iteration NO : 3
+Loop Iteration NO : 4
+Loop Iteration NO : 5
+Loop Iteration ENDED
+Value of a is: 11
+
+--> Loop Started <--
+Loop Iteration NO : 1
+Loop Iteration NO : 2
+Loop Iteration NO : 3
+Loop Iteration NO : 4
+Loop Iteration NO : 5
+Loop Iteration ENDED
+<--WHILE BLOCK Executes Successfully-->
+
+Variable: pp, Value: 0
+Variable name is: a
+Updated value is: 5
+
+-->Option Matched<--
+
+-->Change ENDED<--
+-->Function Successfully Called.<--
+^_^ Compilation Completed Successfully!! ^_^

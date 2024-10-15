@@ -1,0 +1,106 @@
+# ROll -1907089
+bring file.h
+
+
+<< Hasibul Hasan Hasib 
+3rd year>>
+
+
+
+fun func(num arg) -> num {
+    ;
+}
+
+
+fun func(num ar) -> num {
+    ;
+}
+
+fun xya(num app) -> num {
+    ;
+}
+
+ 
+
+int main() {
+   str ii = "hhh";
+
+   show(ii);
+
+   str_show("hello World");
+    deci val = sin(90);
+    deci p = 2 ** 3;
+    num o=5;
+    num u=6;
+    
+    num www = o+u ;
+    num x = 1, y = 0;
+
+    z = o**u ;
+    if( 1 > 5) {
+        11
+    } else {
+
+        if( 4==2 ) {
+            1==4
+        } else {
+
+            4+5
+        }
+
+    }
+    if( 1 > 7) {
+        if(1 < 7) {
+            3*3
+        }
+        elif( 1 == 7) {
+            4
+        } else {
+            5+5
+        }
+    }
+    elif(1 == 1) {
+        if(1 == 1) {
+            root(25)
+        }
+    }
+
+    num a = 11, b = 20, c = 2;
+    show(a, b, c);
+    deci d = 1.10, e = d;
+
+read(a,b);
+
+    num aa = b % 3;
+    show(aa);
+
+    num bb = a <= b;
+    show(bb);
+
+    loop i in (1 -> 10 by 2) {
+
+        loop j in (2 -> 5 by 1) {
+
+             ;
+
+        }
+    }
+
+    show(a) ;
+
+
+    while(a <= b) {
+
+        loop k in (1 -> 5 by 1) {
+            ;
+        }
+
+    }
+num pp;
+    change -> {
+        option a >= 0 -> a =  5;
+        other          ->  ;
+    }
+
+   invoke func(pp);
+}
